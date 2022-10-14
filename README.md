@@ -64,8 +64,8 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
-![robo](/img/robot.jpeg))
-![robo](/img/end.jpeg)
+![robo](/robot.jpeg)
+![robo](/end.jpeg)
 
 ## MobileRobot Movement Video:
 
